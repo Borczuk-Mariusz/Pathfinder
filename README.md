@@ -79,7 +79,7 @@ src/
 git clone [repository-url]
 
 # Navigate to project directory
-cd campus-navigator
+cd pathfinder
 
 # Install dependencies
 npm install
